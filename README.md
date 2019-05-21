@@ -8,7 +8,9 @@ After the extraction is complete, there is a folder named "frame" in the folder.
 `​store_ray_tracing_animation​()`
 
 ![](RayTracing/sample/animation.gif)
+
 `Ray Tracing Animation`
 
 ![](RayTracing/sample/optimization.gif)
+
 `Optimized Ray Tracing Rendering`
