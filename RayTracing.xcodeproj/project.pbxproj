@@ -37,6 +37,7 @@
 		31A6CEC0227A7A54007BBEDA /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
 		31A6CEC1227A7A54007BBEDA /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = System/Library/Frameworks/GLUT.framework; sourceTree = SDKROOT; };
 		31B06A0822943589004B9DB5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		31B06A0922943C63004B9DB5 /* animation.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = animation.gif; sourceTree = "<group>"; };
 		31D7CEF522832B9E00C60101 /* colors.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = colors.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -85,6 +86,7 @@
 				31A6CEB7227A7A09007BBEDA /* material.h */,
 				31A6CEB4227A7A09007BBEDA /* ray.h */,
 				31A6CEBB227A7A09007BBEDA /* vec3.h */,
+				31B06A0922943C63004B9DB5 /* animation.gif */,
 			);
 			path = RayTracing;
 			sourceTree = "<group>";
