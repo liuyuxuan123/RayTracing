@@ -36,6 +36,7 @@
 		31A6CEBE227A7A0A007BBEDA /* hitable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = hitable.h; sourceTree = "<group>"; };
 		31A6CEC0227A7A54007BBEDA /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
 		31A6CEC1227A7A54007BBEDA /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = System/Library/Frameworks/GLUT.framework; sourceTree = SDKROOT; };
+		31B06A0822943589004B9DB5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		31D7CEF522832B9E00C60101 /* colors.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = colors.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -55,6 +56,7 @@
 		31A6CEA0227A79FD007BBEDA = {
 			isa = PBXGroup;
 			children = (
+				31B06A0822943589004B9DB5 /* README.md */,
 				31A6CEAB227A79FD007BBEDA /* RayTracing */,
 				31A6CEAA227A79FD007BBEDA /* Products */,
 				31A6CEC2227A94AC007BBEDA /* Frameworks */,
