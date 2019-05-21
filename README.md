@@ -7,4 +7,8 @@ After the extraction is complete, there is a folder named "frame" in the folder.
 3. Store New ray tracing animation
 `​store_ray_tracing_animation​()`
 
-<div align=center>![](RayTracing/animation.gif)
+![](RayTracing/sample/animation.gif)
+`Ray Tracing Animation`
+
+![](RayTracing/sample/optimization.gif)
+`Optimized Ray Tracing Rendering`
