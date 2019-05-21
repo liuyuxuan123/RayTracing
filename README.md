@@ -3,12 +3,15 @@ After the extraction is complete, there is a folder named "frame" in the folder.
 1. Using multiprocess to optimize ray tracing. ​Since this project uses Grand Central Dispatch(GCD), this project cannot run on Windows System
 
 `optimized_ray_tracing​()`
+
 2. Play stored ray tracing animation
 
 `​play_ray_tracing_animation​(0)`
+
 3. Store New ray tracing animation
 
 `​store_ray_tracing_animation​()`
+
 
 ![](RayTracing/sample/animation.gif)
 
@@ -21,5 +24,4 @@ After the extraction is complete, there is a folder named "frame" in the folder.
 ![](RayTracing/sample/analysis.png)
 `Time Profile`
 
-`Sphere Parameter Function`
-$$ f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right) $$
+
