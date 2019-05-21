@@ -14,3 +14,6 @@ After the extraction is complete, there is a folder named "frame" in the folder.
 ![](RayTracing/sample/optimization.gif)
 
 `Optimized Ray Tracing Rendering`
+
+![](RayTracing/sample/analysis.png)
+`Time Profile`
