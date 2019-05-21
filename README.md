@@ -6,3 +6,5 @@ After the extraction is complete, there is a folder named "frame" in the folder.
 `​play_ray_tracing_animation​(0)`
 3. Store New ray tracing animation
 `​store_ray_tracing_animation​()`
+
+![](RayTracing/animation.gif)
