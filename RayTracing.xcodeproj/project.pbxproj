@@ -39,6 +39,7 @@
 		31B06A0822943589004B9DB5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		31B06A0922943C63004B9DB5 /* animation.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = animation.gif; sourceTree = "<group>"; };
 		31B06A0B22944183004B9DB5 /* optimization.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = optimization.gif; sourceTree = "<group>"; };
+		31B06A0C2294492E004B9DB5 /* analysis.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = analysis.png; sourceTree = "<group>"; };
 		31D7CEF522832B9E00C60101 /* colors.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = colors.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -102,6 +103,7 @@
 		31B06A0A22944171004B9DB5 /* sample */ = {
 			isa = PBXGroup;
 			children = (
+				31B06A0C2294492E004B9DB5 /* analysis.png */,
 				31B06A0922943C63004B9DB5 /* animation.gif */,
 				31B06A0B22944183004B9DB5 /* optimization.gif */,
 			);
